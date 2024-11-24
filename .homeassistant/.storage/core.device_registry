@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "minor_version": 8,
+  "key": "core.device_registry",
+  "data": {
+    "devices": [
+      {"area_id":null,"config_entries":["01JAFW7VZ0WETPECEN4YNN4P47"],"configuration_url":null,"connections":[],"created_at":"2024-10-18T13:14:31.266277+00:00","disabled_by":null,"entry_type":"service","hw_version":null,"id":"e391390a17c18fd8e5c286708a7aa460","identifiers":[["sun","01JAFW7VZ0WETPECEN4YNN4P47"]],"labels":[],"manufacturer":null,"model":null,"model_id":null,"modified_at":"2024-10-18T13:14:31.266306+00:00","name_by_user":null,"name":"Sun","primary_config_entry":"01JAFW7VZ0WETPECEN4YNN4P47","serial_number":null,"sw_version":null,"via_device_id":null},
+      {"area_id":null,"config_entries":["01JCKH3DWAJR8Q39Q0KV8JBHW1"],"configuration_url":"https://www.met.no/en","connections":[],"created_at":"2024-11-13T19:48:13.062473+00:00","disabled_by":null,"entry_type":"service","hw_version":null,"id":"58c941c29a0cd715e7c93b4983a363c5","identifiers":[["met","01JCKH3DWAJR8Q39Q0KV8JBHW1"]],"labels":[],"manufacturer":"Met.no","model":"Forecast","model_id":null,"modified_at":"2024-11-13T19:48:13.062505+00:00","name_by_user":null,"name":"Forecast","primary_config_entry":"01JCKH3DWAJR8Q39Q0KV8JBHW1","serial_number":null,"sw_version":null,"via_device_id":null}
+    ],
+    "deleted_devices": [
+      {"config_entries":[],"connections":[],"created_at":"2024-11-16T18:07:10.914114+00:00","identifiers":[["epic_games_store","01JCV2GJZ6C6AN9B8GBB710NHB"]],"id":"0683db3de5ec80b27ec1711aacb949db","orphaned_timestamp":1731780455.3468046,"modified_at":"2024-11-16T18:07:35.346956+00:00"}
+    ]
+  }
+}
